@@ -1,3 +1,4 @@
+from __future__ import division
 import sys
 from numpy import array, zeros, sqrt, exp, rot90, flipud, fliplr
 from scipy import stats

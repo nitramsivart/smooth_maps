@@ -1,5 +1,7 @@
 # makes a colormesh of a 2d array overlay
 
+from __future__ import division
+
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap as Basemap
 from matplotlib.patches import Polygon
